@@ -6,7 +6,7 @@
 
 ## Unlocking Data, Empowering Communities
 
-At KR-Labs, we harness the power of data to illuminate economic, social, and cultural patterns that shape our world. Our mission is to democratize access to actionable intelligence, enabling researchers, policymakers, educators, and innovators to make informed decisions, drive impact, and shape sustainable solutions.
+At Khipu Research Labs, we harness the power of data to illuminate economic, social, and cultural patterns that shape our world. Our mission is to democratize access to actionable intelligence, enabling researchers, policymakers, educators, and innovators to make informed decisions, drive impact, and shape sustainable solutions.
 
 ---
 
@@ -37,7 +37,7 @@ We are more than a research lab—we are a community of explorers and problem-so
 ## Our Services
 
 ### Open-Source Analytics
-- Access 25+ interactive notebooks covering income, labor, education, health, housing, and more
+- Access interactive notebooks covering income, labor, education, health, housing, and more
 - Leverage ready-to-use Python libraries for data wrangling, modeling, and visualization
 - Conduct local, self-hosted experiments with community guidance
 
@@ -55,7 +55,7 @@ We are more than a research lab—we are a community of explorers and problem-so
 
 ## Explore Our Domains
 
-KR-Labs provides coverage across 19 socioeconomic domains, including:
+KR-Labs provides coverage across 35 socioeconomic domains, including:
 
 - Income, employment, and inequality
 - Education, health, and housing
@@ -82,7 +82,7 @@ Explore our projects, contribute, or start your own initiative at [KR-Labs on Gi
 - **Website**: [krlabs.dev](https://krlabs.dev)
 - **GitHub**: [@KR-Labs](https://github.com/KR-Labs)
 - **Email**: info@krlabs.dev
-- **Security**: security@krlabs.dev
+- **Support**: support@krlabs.dev
 
 ---
 
