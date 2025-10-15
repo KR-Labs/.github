@@ -1,73 +1,89 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KR-Labs/.github/main/profile/krlabs-banner.png" alt="KR-Labs Banner" width="100%">
+</div>
+
 # KR-Labs
 
-## Advanced Analytics & Data Intelligence
+## Unlocking Data, Empowering Communities
 
-KR-Labs is dedicated to developing open-source tools and frameworks that democratize access to sophisticated data analytics, economic research, and machine learning capabilities.
+At KR-Labs, we harness the power of data to illuminate economic, social, and cultural patterns that shape our world. Our mission is to democratize access to actionable intelligence, enabling researchers, policymakers, educators, and innovators to make informed decisions, drive impact, and shape sustainable solutions.
 
-### Our Projects
+---
 
-#### KRAnalytics
-**Open-Source Socioeconomic Analytics Framework**
+## What We Do
 
-A comprehensive toolkit for analyzing complex socioeconomic phenomena using government data sources and state-of-the-art machine learning techniques.
+KR-Labs develops open-source and enterprise-ready tools that transform complex socioeconomic data into clear, actionable insights. By bridging rigorous analytics with practical applications, we empower organizations and communities to:
 
-- **Tutorial Notebooks**: 5+ interactive tutorials covering income analysis, inequality metrics, employment forecasting, and crime prediction
-- **Data Sources**: Census Bureau, BLS, FRED, FBI, and more
-- **Technologies**: Python, Pandas, Scikit-learn, Plotly, Prophet
-- **Focus**: Reproducible research, policy analysis, and data-driven decision-making
+- **Understand economic and social dynamics** at every level—from local neighborhoods to national trends
+- **Translate raw data** into predictive models, visualizations, and strategic intelligence
+- **Build evidence-based programs**, policies, and initiatives that drive measurable change
 
-[View Repository](https://github.com/KR-Labs/KRAnalytics)
+Our platforms integrate public datasets, curated economic signals, and machine learning frameworks to provide an all-in-one solution for understanding society, markets, and culture. Whether you're running a research project, scaling a nonprofit, or advising enterprise initiatives, our tools meet you where you are.
 
-#### Khipu Analytics Suite
-**Enterprise-Grade Analytics Platform**
+---
 
-Advanced analytics infrastructure for large-scale data processing, model deployment, and automated insights generation.
+## Community & Collaboration
 
-### Our Mission
+We are more than a research lab—we are a community of explorers and problem-solvers. By contributing, collaborating, or simply using our tools, you become part of a growing network dedicated to transparency, reproducibility, and social impact.
 
-We believe that powerful analytical tools should be accessible to researchers, policymakers, educators, and data professionals regardless of institutional resources. Our open-source projects are designed to:
+**Join us to:**
+- Participate in open-source projects and notebooks
+- Share use cases, insights, and feedback
+- Engage with workshops, webinars, and tutorials
+- Collaborate on initiatives that turn data into action
 
-- **Enable rigorous analysis** with professional-grade tools
-- **Promote transparency** through reproducible methodologies  
-- **Foster collaboration** across disciplines and institutions
-- **Accelerate innovation** in data science and analytics
+---
 
-### Technologies We Work With
+## Our Services
 
-**Languages**: Python, SQL, JavaScript  
-**Data Science**: Pandas, NumPy, SciPy, Statsmodels  
-**Machine Learning**: Scikit-learn, XGBoost, Prophet, TensorFlow  
-**Visualization**: Plotly, Matplotlib, Seaborn  
-**Infrastructure**: Docker, Kubernetes, GitHub Actions  
-**APIs**: RESTful services, FastAPI, Flask
+### Open-Source Analytics
+- Access 25+ interactive notebooks covering income, labor, education, health, housing, and more
+- Leverage ready-to-use Python libraries for data wrangling, modeling, and visualization
+- Conduct local, self-hosted experiments with community guidance
 
-### Get Involved
+### Enterprise Solutions
+- Unlock full datasets and advanced modeling capabilities
+- Deploy AI-driven intelligence and predictive analytics for strategic decision-making
+- Receive dedicated support, professional services, and enterprise-grade dashboards
 
-We welcome contributions from the community:
+### Research & Consulting
+- Custom analytics development for social, economic, and cultural initiatives
+- Policy analysis and scenario modeling
+- Training programs for teams, educators, and community leaders
 
-- **Star** our repositories to show support
-- **Fork** projects to experiment and build
-- **Submit** pull requests to improve code and documentation
-- **Report** issues to help us maintain quality
-- **Share** your use cases and success stories
+---
 
-### Resources
+## Explore Our Domains
 
-- **Documentation**: Comprehensive guides and API references in each repository
-- **Tutorials**: Step-by-step notebooks for learning and application
-- **Examples**: Real-world case studies and implementations
-- **Support**: GitHub Discussions and Issues for community assistance
+KR-Labs provides coverage across 19 socioeconomic domains, including:
 
-### Connect With Us
+- Income, employment, and inequality
+- Education, health, and housing
+- Consumer behavior, industry structure, and business trends
+- Cultural economics, environmental impact, and civic engagement
 
+Each domain comes with granular data, analytic frameworks, and visualizations ready for exploration and deployment.
+
+---
+
+## Get Involved
+
+- **Contribute**: Build and improve open-source notebooks, datasets, and visualizations
+- **Collaborate**: Join community projects to translate data into impact
+- **Learn**: Access tutorials, case studies, and documentation to strengthen your analytic skills
+- **Support**: Help maintain quality and expand our reach for global insights
+
+Explore our projects, contribute, or start your own initiative at [KR-Labs on GitHub](https://github.com/KR-Labs).
+
+---
+
+## Connect With Us
+
+- **Website**: [krlabs.dev](https://krlabs.dev)
 - **GitHub**: [@KR-Labs](https://github.com/KR-Labs)
 - **Email**: info@krlabs.dev
 - **Security**: security@krlabs.dev
 
-### License
-
-Our open-source projects are released under the MIT License, ensuring maximum freedom for use, modification, and distribution.
-
 ---
 
-**Building open-source intelligence for data-driven decision making.**
+**KR-Labs: Building open-source intelligence to empower action, inform decisions, and drive measurable impact.**
