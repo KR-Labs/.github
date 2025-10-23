@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KR-Labs/.github/main/profile/banner.png?v=2" alt="KR-Labs Banner" width="65%">
+  <img src="https://raw.githubusercontent.com/KR-Labs/.github/main/profile/KRLabs_WebLogo.png?v=3" alt="KR-Labs Logo" width="400">
 </div>
 
 # KR-Labs
